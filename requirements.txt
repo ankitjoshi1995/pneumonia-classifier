@@ -2,6 +2,6 @@ Flask==2.0.1
 gevent==21.8.0
 gunicorn==20.0.4
 opencv-python==4.5.3.56
-tensorflow==2.5.0
+tensorflow-cpu
 Werkzeug==2.0.1
 Pillow==8.3.1
